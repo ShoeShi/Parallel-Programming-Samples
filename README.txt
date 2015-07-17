@@ -2,7 +2,7 @@ README 11.27.14
 /****************************************************************************
 Sample MPI and OpenMP programs
 Author: JX
-https://github.com/BurningKoy
+https://github.com/ShiGGie
 ****************************************************************************/
 
 Requirements:
